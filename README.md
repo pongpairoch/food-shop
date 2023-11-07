@@ -1,9 +1,8 @@
 # food-shop
 
 เว็ปขายอาหาร สัตว์เลี้ยง 
-- เขียนด้วย php 
-- payment gateway
-- omise
+- php 
+- payment gateway omise
 - html/css
 - javascript
 - mysql
